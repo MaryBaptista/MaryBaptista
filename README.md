@@ -65,7 +65,7 @@ Repo: kubernetes-manifest (CloudForge13 org)
 **Portfolio Website**
 
 Personal portfolio site built in HTML and deployed via GitHub Pages and Netlify.
-Live: https://chinwendu-nwachukwu-portfolio.netlify.app
+Live: https://baptista-global-resources.netlify.app/#services
 Repo: Chinwendu-Nwachukwu-Portfolio
 
 **COVID-19 Nigeria Dataset**
