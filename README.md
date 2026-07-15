@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/chinwendu-nwachukwu1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://chinwendu-nwachukwu-portfolio.netlify.app" target="_blank">
+  <a href="https://baptista-global-resources.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7B1E1E?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="mailto:marybaptistanwachukwu@gmail.com">
